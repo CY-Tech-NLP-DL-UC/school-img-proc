@@ -21,4 +21,4 @@ This project was created using:
 
 ## Setup
 
-Use Jupyter notebook to run each project or run each project using ```python3 project_name.py``` (make sure to have the libraries correctly installed in that case)
+Use Jupyter notebook to run each project (install it before https://jupyter.org/install then run ```jupyter notebook```)
