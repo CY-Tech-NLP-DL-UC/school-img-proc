@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Credit](#credit)
 
 ## General info
 
@@ -22,3 +23,7 @@ This project was created using:
 ## Setup
 
 Use Jupyter notebook to run each project (install it before https://jupyter.org/install then run ```jupyter notebook```)
+
+## Credit
+
+Thanks to Lafage Adrien for helping me to change from matlab to python files ! (https://github.com/alafage)
